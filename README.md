@@ -9,7 +9,7 @@ I'm a passionate junior in computer science seeking internship opportunities to 
 
     - 🪐 **Nebula Labs**: Collaborating with a talented team on the "Jupiter" project. Using tools like Jira, NextJS, and GitHub, we aim to enhance the UTD student experience by making a unified platform for student organization discovery and engagement.
 
-    - 🔬 **ACM Research**: Working with a group of four, guided by a team lead and a security professor, to develop a model for precise steganography detection in JPEG images using machine learning techniques, including convolutional neural networks and support vector machines.
+    - 🔬 **ACM Research**: Advised by Dr. Murat Kantarcioglu, working with team of 5 to develop a model for precise steganography detection in JPEG images, using CNNs and support vector machines.
 
 ## 🌱 Interests
 
