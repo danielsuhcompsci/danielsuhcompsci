@@ -2,7 +2,7 @@
 
 I'm a passionate junior in computer science seeking internship opportunities to further develop my skills and contribute to exciting projects. I have a strong foundation in full-stack development and a growing interest in machine learning.
 
-## 🚀 About Me
+## 👤 About Me
 
 - 🌐 Full-Stack Developer: Proficient in technologies like HTML/CSS, Typescript, React, Node, NextJS, Docker, and AWS.
 - 💼 Campus Involvement: Actively engaged with two prominent organizations:
@@ -13,7 +13,7 @@ I'm a passionate junior in computer science seeking internship opportunities to 
 
 ## 🌱 Interests
 
-- 🤖 Machine Learning: I'm currently captivated by the limitless possibilities of machine learning and its applications in diverse fields.
+- 🤖 Machine Learning: I'm currently captivated by the limitless possibilities of computer vision and large language models.
 - 🦀 Rust Enthusiast: Excited about Rust's unique borrow checking capabilities and its potential to make systems safer and more robust.
 
 ## 💻 Some tech I enjoy
