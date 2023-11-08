@@ -19,7 +19,7 @@ I'm a passionate undergrad in computer science seeking internship opportunities 
 ## 💻 Some tech I enjoy
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,rust,emacs,vim,wasm,aws,git,docker,postgres,mongodb,prisma,next,c,cpp,swift,java,nodejs,jest,tailwindcss,bash,express" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vue,postgres,mongodb,prisma,next,vercel,rust,emacs,vim,wasm,aws,gcp,git,docker,c,cpp,swift,java,spring,nodejs,jest,tailwindcss,bash,express" />
   </a>
 </p>
 
