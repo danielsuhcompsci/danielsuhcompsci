@@ -1,6 +1,6 @@
 # Hello, I'm Daniel 👋
 
-I'm a passionate junior in computer science seeking internship opportunities to further develop my skills and contribute to exciting projects. I have a strong foundation in full-stack development and a growing interest in machine learning.
+I'm a passionate undergrad in computer science seeking internship opportunities to further develop my skills and contribute to exciting projects. I have a strong foundation in full-stack development and a growing interest in machine learning.
 
 ## 👤 About Me
 
