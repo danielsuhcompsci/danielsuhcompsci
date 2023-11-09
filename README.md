@@ -4,17 +4,14 @@ I'm a passionate undergrad in computer science seeking internship opportunities 
 
 ## 👤 About Me
 
-- 🌐 Full-Stack Developer: Proficient in technologies like HTML/CSS, Typescript, React, Vue, Java Spring Boot, Node, NextJS, Docker, and AWS.
-- 💼 Campus Involvement: Actively engaged with two prominent organizations:
+- 🌐 Full-Stack Developer: Proficient in technologies like HTML/CSS, Typescript, React, Vue, Python, Java, Spring Boot, Node, NextJS, Docker, and AWS.
+- 💼 Campus Involvement: 
 
     - 🪐 **Nebula Labs**: Collaborating with a talented team on the "Jupiter" project. Using tools like Jira, NextJS, and GitHub, we aim to enhance the UTD student experience by making a unified platform for student organization discovery and engagement.
 
     - 🔬 **ACM Research**: Advised by Dr. Murat Kantarcioglu, working with team of 5 to develop a model for precise steganography detection in JPEG images, using CNNs and support vector machines.
-
-## 🌱 Interests
-
-- 🤖 Machine Learning: I'm currently captivated by the limitless possibilities of computer vision and large language models.
-- 🦀 Rust Enthusiast: Excited about Rust's unique borrow checking capabilities and its potential to make systems safer and more robust.
+ 
+    - 🧠 **Computational Neuropsychology & Affective Neuroscience Lab**: Recently joined the CNAN lab, led by Stacie L. Warren, PhD, to aid with fMRI image processing pipelines and modeling of latent brain state dynamics
 
 ## 💻 Some tech I enjoy
 <p align="center">
