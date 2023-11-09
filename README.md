@@ -4,7 +4,7 @@ I'm a passionate undergrad in computer science seeking internship opportunities 
 
 ## 👤 About Me
 
-- 🌐 Full-Stack Developer: Proficient in technologies like HTML/CSS, Typescript, React, Node, NextJS, Docker, and AWS.
+- 🌐 Full-Stack Developer: Proficient in technologies like HTML/CSS, Typescript, React, Vue, Java Spring Boot, Node, NextJS, Docker, and AWS.
 - 💼 Campus Involvement: Actively engaged with two prominent organizations:
 
     - 🪐 **Nebula Labs**: Collaborating with a talented team on the "Jupiter" project. Using tools like Jira, NextJS, and GitHub, we aim to enhance the UTD student experience by making a unified platform for student organization discovery and engagement.
